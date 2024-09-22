@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Hossam Ramadan Amin</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        h1, h2, h3 { color: #333; }
+        ul { list-style-type: none; padding: 0; }
+        .container { max-width: 800px; margin: auto; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hossam Ramadan Amin</h1>
+        <p><strong>Structural Technical Office Engineer</strong></p>
+        <p>Giza, Cairo, Egypt</p>
+        <p>+201148044429</p>
+        <p><a href="mailto:Hossamramadan480@gmail.com">Hossamramadan480@gmail.com</a></p>
+        <p><a href="https://linkedin.com/in/hossam-ramadan" target="_blank">linkedin.com/in/hossam-ramadan</a></p>
+
+        <h2>Career Objective</h2>
+        <p>Structural technical office engineer seeking to improve my technical and non-technical skills as well as widen my knowledge in the technical office engineering field.</p>
+
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B.Sc. of Engineering</strong>, Thebes Higher Institute for Engineering and Technology - Class 2021.</li>
+            <li>Specialization: Civil Engineer.</li>
+            <li>Project: Reinforced Concrete Design Project.</li>
+            <li>Graduation Grade: Highly Good.</li>
+            <li>Project Grade: Excellent.</li>
+        </ul>
+
+        <h2>Technical Courses</h2>
+        <ul>
+            <li>QS & Shop Drawing Course (Offline) - (Dec/2022) - Instructor Eng. Hesham Tarek.</li>
+            <li>Professional Site Engineer Qualification (June/2022) - Kayan Academy – Instructor Eng. Amr Adel.</li>
+            <li>Structural Design Diploma (Recorded) - Instructor Eng. Hesham Tarek & Dr. Abdullah Mustafa.</li>
+            <li>Benaa Training Diploma (BTD) - Round 2019, @ Benaa Academy - Instructors Eng. Mostafa Afifi & Eng. Abdulrahman Elsharnouby.</li>
+            <li>Reinforced Concrete Manual Design - Round 2018 @ Benaa Academy - Instructor Eng. Hesham Tarek.</li>
+        </ul>
+
+        <h2>Skills & Interests</h2>
+        <h3>Computer Skills:</h3>
+        <ul>
+            <li>AutoCAD Professional.</li>
+            <li>Csi Package (SAP, ETABS, SAFE, CSI Column).</li>
+            <li>Concrete Design Program (CDP).</li>
+            <li>AutoCAD Structural Detailing “Reinforcement”.</li>
+            <li>Steel Cutting Optimization Program (self-study).</li>
+            <li>High computer skills concerning widely used software (MS Windows, MS Office, Internet, etc.).</li>
+        </ul>
+        <h3>Language Skills:</h3>
+        <ul>
+            <li>Very good command of English written and spoken.</li>
+        </ul>
+        <h3>Personal Skills:</h3>
+        <ul>
+            <li>Teamwork oriented.</li>
+            <li>Self-motivated.</li>
+            <li>Ability to work under pressure.</li>
+            <li>Problem solving.</li>
+            <li>Good communication skills.</li>
+            <li>Able to work abroad.</li>
+            <li>Desire to learn and upgrade.</li>
+        </ul>
+
+        <h2>Practical Experience</h2>
+        <h3>07/2024 – Present</h3>
+        <p><strong>Kharafi National (Site)</strong> - Structural Shop Drawing & Project Coordinator Engineer.</p>
+        <p><strong>Projects:</strong> IL MONTE Galala- Ain Sokhna.</p>
+        <p><strong>Responsibilities:</strong></p>
+        <ul>
+            <li>Review IFC Design Drawings and BOQ to highlight any missing or unclear data.</li>
+            <li>Issue necessary RFIs (Requests for Information).</li>
+            <li>Attend technical meetings to resolve unclear/missing data in design.</li>
+            <li>Coordination between all resources and all trades (MEP, Architectural, Structure, etc.).</li>
+            <li>Revise/Create reinforcement shop drawings for different structural elements.</li>
+        </ul>
+
+        <h3>05/2023 – 07/2024</h3>
+        <p><strong>AlHuda Contracting (Site & Head Office)</strong> - Structural Technical Office Engineer.</p>
+        <p><strong>Projects:</strong> AIAN Compound in 5th Settlement, Al-Rehab Land Development Project, New Tomps Project in 10th of Ramadan.</p>
+        <p><strong>Responsibilities:</strong></p>
+        <ul>
+            <li>Coordinate architectural and structural drawings.</li>
+            <li>Develop efficient shop drawings and minimize steel waste.</li>
+            <li>Conduct comprehensive analysis of steel cuts.</li>
+            <li>Prepare accurate and detailed invoices for sub-contractors.</li>
+        </ul>
+
+        <h2>Personal Info</h2>
+        <ul>
+            <li><strong>Name:</strong> Hossam Ramadan Amin Abdulghani</li>
+            <li><strong>Address:</strong> Giza, Cairo, Egypt</li>
+            <li><strong>Birth:</strong> July 10, 1997</li>
+            <li><strong>Nationality:</strong> Egyptian</li>
+            <li><strong>Religion:</strong> Muslim</li>
+            <li><strong>Marital Status:</strong> Single</li>
+            <li><strong>Military Service:</strong> Completed</li>
+        </ul>
+    </div>
+</body>
+</html>
